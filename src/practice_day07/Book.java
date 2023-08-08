@@ -26,12 +26,6 @@ public class Book {
         System.out.println("Eklemnen kitap\n  Romanlar\n"+kitap.title+" "+kitap.yazar+" "+kitap2.yayinYili);
 
 
-
-
-
     }
-
-
-
 
 }
