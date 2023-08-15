@@ -10,8 +10,8 @@ public class multiDimensionalArray02 {
    // içine çeşitli şehir ve nüfus bilgileri ekleyin.
     // Daha sonra kullanıcıdan bir şehir adı alarak, bu şehrin nüfusunu ekrana yazdırın.
 
-// yollayacagınız repo nerde
-        //acayim hemen
+
+
 
 
         String [][] sehirlerNufuslar={
