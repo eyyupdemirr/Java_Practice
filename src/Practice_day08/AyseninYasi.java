@@ -20,7 +20,7 @@ public class AyseninYasi {
         long second=duration.toSecondsPart();
         System.out.println(currentTime);
 
-        System.out.println("Aysenin yasi: "+day+".gün "+hour+".saat "+minute+".dakika "+second+".saniyedir dunyada ");
+        System.out.println("Aysenin yasi tam olarak: "+day+".gün "+hour+".saat "+minute+".dakika "+second+".saniyedir dunyada ");
 
 
 
@@ -31,6 +31,7 @@ public class AyseninYasi {
         LocalDateTime currentTime1=LocalDateTime.now();
         Duration duration1=Duration.between(startTime1,currentTime);
       //  System.out.println(duration1);
+
         long day1=duration1.toDays();
         long hour1=duration1.toHoursPart();
         long minute1=duration1.toMinutesPart();
