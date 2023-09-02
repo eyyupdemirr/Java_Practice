@@ -13,8 +13,8 @@ package Practice_day08;
 
 public class Rectangle {
 
-    int uzunluk;
-    int yukseklik;
+    int uzunluk,yukseklik;
+
 
     public Rectangle(int uzunluk, int yukseklik) {
         this.uzunluk = uzunluk;
