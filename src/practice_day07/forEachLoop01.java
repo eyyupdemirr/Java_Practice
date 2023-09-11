@@ -19,7 +19,7 @@ public class forEachLoop01 {
         System.out.println(meyveler);
 
         for (int i = 0; i <meyveler.size() ; i++) {
-            System.out.print(meyveler.get(i).toUpperCase()+", ");
+            System.out.print(meyveler.get(i).toUpperCase()+" , ");
 
         }
 
