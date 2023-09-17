@@ -30,7 +30,7 @@ public class IldekiHarflerVeSayilari {
 
         for (int i = 0; i < ilarr1.length ; i++) {
 
-            if (ilarr1[i].contains("v"))
+            if (ilarr1[i].contains("a"))
                 sayac++;
 
             if (ilarr1[i].contains("g"))
@@ -44,7 +44,7 @@ public class IldekiHarflerVeSayilari {
         }
 
 
-        System.out.println(sayac);
+        System.out.println(sayac) ;
         System.out.println(sayac1);
         System.out.println(sayac2);
         System.out.println(sayac3);
